@@ -13,6 +13,28 @@ I'm an aspiring Full-stack web developer, with a strong interest for building st
     </a>
   </section>
 
+  <section>
+  <h2>Github Statistics</h2>
+
+  <!-- LIGHT MODE -->
+  <a href="https://github.com/ASHURA-deb#gh-light-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=ASHURA-deb&card_width=440&theme=light&title_color=131820&icon_color=131820" />
+  </a>
+  
+  <a href="https://github.com/ASHURA-deb#gh-light-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHURA-deb&layout=donut&theme=light&title_color=131820" />
+  </a>
+  
+  <!-- DARK MODE -->
+  <a href="https://github.com/ASHURA-deb#gh-dark-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=ASHURA-deb&card_width=440&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+  
+  <a href="https://github.com/ASHURA-deb#gh-dark-mode-only">
+      <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHURA-deb&layout=donut&theme=github_dark&hide_border=true&bg_color=11151C" />
+  </a>
+</section>
+
 <!--
 **ASHURA-deb/ASHURA-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
