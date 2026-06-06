@@ -10,7 +10,7 @@ d8'          `8b  "Y88888P"   88        88   `"Y8888Y"'   88      `8b  d8'      
 </pre>
 <br/>
 <br/>
-I'm an aspiring Full-stack web developer, with a strong interest for building stylish, convenient websites.
+Someone who has an interest in making things and is determined to try.
 
   <section>
     <a style="text-decoration: none;" href="https://github.com/ASHURA-deb">
@@ -29,7 +29,7 @@ I'm an aspiring Full-stack web developer, with a strong interest for building st
 <hr>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,jsx,html,css,mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,flask,django,js,react,html,css,mysql" height="40"/>
 </div>
 
 ###
